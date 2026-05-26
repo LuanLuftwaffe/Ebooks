@@ -1,6 +1,6 @@
 # 📖 Dự án Ebook Cổ Chân Nhân Dịch (Định dạng EPUB)
 
-[![Release](https://img.shields.io/badge/Tải_về-Phiên_bản_v1.0-blueviolet)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/tag/v1.0)
+[![Release](https://img.shields.io/badge/Tải_về-Phiên_bản_v1.0-blueviolet)](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/download/v1.0/Co.Chan.Nhan.Dich.epub)
 ![Format](https://img.shields.io/badge/Định_dạng-EPUB-blue)
 ![Status](https://img.shields.io/badge/Tiến_độ-Đang_hoàn_thiện-brightgreen)
 ![Contributions](https://img.shields.io/badge/Đóng_góp-Chào_đón-orange)
