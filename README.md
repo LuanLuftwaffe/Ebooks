@@ -18,7 +18,8 @@ Sau hơn 1 năm phát triển, bản EPUB hiện tại đã được nâng cấp
 
 ## 📥 Tải Ebook (Đọc Offline)
 Bạn có thể tải file Ebook trực tiếp tại các liên kết sau:
-* **[Kho lưu trữ GitHub](https://github.com/LuanLuftwaffe/Ebooks)** (Khuyên dùng)
+* **[Release](https://github.com/LuanLuftwaffe/Ebooks-CCN-Reverend-Insanity/releases/download/v1.0/Co.Chan.Nhan.Dich.epub)** (Tải trực tiếp)
+* **[Kho lưu trữ GitHub](https://github.com/LuanLuftwaffe/Ebooks)** (Kho lưu trữ file)
 
 ## 📱 Hướng dẫn phần mềm đọc truyện
 Để file EPUB hiển thị tốt nhất, các bạn nên sử dụng các ứng dụng chuyên dụng:
