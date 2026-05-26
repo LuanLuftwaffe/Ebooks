@@ -1,11 +1,12 @@
-# Ebooks
-# 📖 Dự án Ebook Cổ Chân Nhân (Định dạng EPUB)
+# 📖 Dự án Ebook Cổ Chân Nhân Dịch (Định dạng EPUB)
 
 ![Format](https://img.shields.io/badge/Định_dạng-EPUB-blue)
 ![Status](https://img.shields.io/badge/Tiến_độ-Đang_hoàn_thiện-brightgreen)
 ![Contributions](https://img.shields.io/badge/Đóng_góp-Chào_đón-orange)
+![Author](https://img.shields.io/badge/Tác_giả-Cổ_Chân_Nhân-purple)
+![Re-edit](https://img.shields.io/badge/Re--edit-Thiên_Dương_|_Khánh_Nguyênz_|_Hữu_Việt-ff69b4)
 
-Chào mừng các bạn đến với kho lưu trữ Ebook truyện **Cổ Chân Nhân**. Dự án này được mình và team edit lại dựa trên bản dịch hoàn chỉnh của những người đi trước, nhằm mang lại trải nghiệm đọc tốt nhất cho cộng đồng.
+Chào mừng các bạn đến với kho lưu trữ Ebook truyện **Cổ Chân Nhân** (Tác giả: *Cổ Chân Nhân*). Bản dịch này được **re-edit bởi Thiên Dương, Khánh Nguyênz và Hữu Việt**, dựa trên bản dịch hoàn chỉnh của những người đi trước, nhằm mang lại trải nghiệm đọc tốt nhất cho cộng đồng.
 
 ## 📝 Thông tin cập nhật
 Sau hơn 1 năm phát triển, bản EPUB hiện tại đã được nâng cấp đáng kể:
